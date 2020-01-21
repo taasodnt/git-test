@@ -1,2 +1,7 @@
 "Hello_world" 
 "I want to test cherry-pick_1"    
+<<<<<<< HEAD
+=======
+"I want to test cherry-pick_2"  
+"I want to test cherry-pick_3"  
+>>>>>>> da1fbb9... cherry-pick_3
